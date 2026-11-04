@@ -34,12 +34,6 @@ By bridging technology with human expertise, AI reshapes football into a more dy
 Murphy_Artificial_Intelligence_In_Professional_Football.pdf
 ```
 
-## Paper
-
-The complete paper can be found in:
-
-**paper/Murphy_Artificial_Intelligence_in_Professional_Football.pdf**
-
 ## About This Work
 
 This paper was originally completed as an undergraduate research project in December 2024.
